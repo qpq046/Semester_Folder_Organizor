@@ -1,3 +1,5 @@
+# Acknowledgments:
+# Developed with assistance from Claude (Anthropic) as a learning exercise in Python automation.
 # Semester Folder Organizer
 
 A Python script to automatically create weekly folders for semester organization.
